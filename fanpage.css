@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(blue, white)
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    width: 100%;
+    background-color: blue;
+    align-content: center;
+    background-image: linear-gradient(#4e694e #3b3b3b 50%);
+    border-bottom: 2px solid #133783;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.6em;
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+#MI{
+    font-size: 230%;
+    align-self: center;
+    font-weight: bold;
+}
+img{
+    margin-left: 17%;
+    border: brown;
+    height: 500px;
+    width: 60%;
+}
+h2{
+    margin-left: 42%;
+    font-size: 40px;
+    color:mediumvioletred;
+}
+ul{
+    font-weight: bold;
+    font-size: 30px;
+}
+h4{
+    color: brown;
+    font-size: 20px;
+    margin-left: 2%;
+}
+h5{
+color: goldenrod;
+font-style: italic;
+}
